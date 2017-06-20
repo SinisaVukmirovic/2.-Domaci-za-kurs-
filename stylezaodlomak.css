@@ -1,0 +1,45 @@
+h1, h2, p {
+	font-family: 'Roboto Mono', monospace, tahoma;
+	font-size: 20px;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	color: #ff0000;
+	font-size: 30px;
+}
+
+#podvuceno {
+	text-decoration: underline;
+}
+
+p:nth-child(4) {
+	color: blue;
+	background-color: orange;
+}
+
+.sredpar {
+	color: yellow;
+	background-color: purple;
+}
+
+p:nth-child(8) {
+	color: #234980;
+	background-color: #9f7f6f;
+}
+
+a {
+	font-size:30px;
+	color: #00dd33;
+}
+
+a:hover {
+	color: pink;
+}

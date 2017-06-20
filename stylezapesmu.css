@@ -1,0 +1,25 @@
+h2 {
+	font-family: tahoma, verdana, sans-serif;
+	color: #ff0000;
+}
+
+p:nth-child(3) {
+	font-family: 'Pangolin', cursive;
+	color: blue;
+	background-color: yellow;
+}
+
+p:nth-child(4) {
+	font-family: 'Roboto Mono', monospace;
+	color: orange;
+	background-color: cyan;
+}
+
+a {
+	font-size:30px;
+	color: #00dd33;
+}
+
+a:hover {
+	color: pink;
+}
